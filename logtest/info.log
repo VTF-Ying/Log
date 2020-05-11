@@ -1,0 +1,8 @@
+18:35:57.433 [main] INFO  com.vtf.test.LogApplication - Starting LogApplication on KYE-1000656553 with PID 13800 (D:\ideaProjects\Log\target\classes started by 173415 in D:\ideaProjects\Log)
+18:35:57.444 [main] INFO  com.vtf.test.LogApplication - No active profile set, falling back to default profiles: default
+18:35:58.345 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+18:35:58.346 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+18:35:58.347 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.29]
+18:35:58.448 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+18:35:58.900 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+18:35:58.919 [main] INFO  com.vtf.test.LogApplication - Started LogApplication in 1.78 seconds (JVM running for 3.209)
